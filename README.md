@@ -16,7 +16,7 @@
 
 ### 3. Criar um Data Source
 1. Acesse **Fontes de Dados** dentro do Azure Cognitive Search.
-2. Selecione a fonte de dados (SQL Server, Blob Storage, Cosmos DB, etc.).
+2. Selecione a fonte de dados .
 3. Configure as credenciais e selecione os dados a serem indexados.
 4. Salve a fonte de dados.
 
@@ -32,7 +32,7 @@
 3. Integre a pesquisa ao seu aplicativo usando SDKs do Azure.
 
 ## Aprendizados
-Durante o processo de configuração e utilização do Azure Cognitive Search, alguns dos principais aprendizados incluem:
+Durante o processo de configuração e utilização do Azure Cognitive Search, oque aprendi foi:
 - **Definição adequada do esquema do índice** é essencial para consultas eficientes.
 - **A escolha correta da fonte de dados** impacta diretamente na performance e relevância das buscas.
 - **A integração com outros serviços do Azure**, como **AI Search**, **Cognitive Services** e **Power BI**, expande as possibilidades de análise e busca inteligente.
